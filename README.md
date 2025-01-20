@@ -1,2 +1,2 @@
 # Delta
-Web development course codes
+Web development course codes.
